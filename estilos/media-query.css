@@ -3,6 +3,8 @@
 :root {
     --cor01: #4064AE;
     --cor02: #CCCBF3;
+    --cor03: #FEDCF7;
+    --cor04: #ADBDD9;
 }
 
 @media screen and (min-width: 801px) and (max-width: 1025px) {
